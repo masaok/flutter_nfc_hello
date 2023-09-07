@@ -1,3 +1,4 @@
 {
-    "dart.flutterSdkPath": "/Users/keckadmin/apps/flutter/bin"
+  "dart.flutterSdkPath": "/Users/keckadmin/apps/flutter/bin",
+  "java.configuration.updateBuildConfiguration": "automatic"
 }
